@@ -18,6 +18,26 @@ Description:
 License: unknown
 Vendor: Jerry <jerry@example.com>
 
+Package: myplayer
+Version: 1.0.0
+Architecture: amd64
+Maintainer: rtx ncs <rtx@example.com>
+Installed-Size: 257931
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./myplayer_1.0.0_amd64.deb
+Size: 72692600
+MD5sum: 95ae1acc576061b3f54e63eb540a442d
+SHA1: 53d2172c5454a6e138a84a9d3c68b7cfb214d3eb
+SHA256: c59c9e4499d8ae4c3cd4300e814d883f2549162dd0ff192c09766d1370365f0d
+Section: default
+Priority: optional
+Homepage: https://example.com
+Description:
+  HTML Media Player App
+License: unknown
+Vendor: rtx ncs <rtx@example.com>
+
 Package: screen-recorder
 Version: 1.0.0
 Architecture: amd64
