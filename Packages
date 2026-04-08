@@ -18,3 +18,17 @@ Description:
 License: unknown
 Vendor: Jerry <jerry@example.com>
 
+Package: screen-recorder
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jerry <jerry@example.com>
+Depends: ffmpeg, zenity, imagemagick, libx11-6, pulseaudio-utils
+Filename: ./screen-recorder_1.0.0_amd64.deb
+Size: 3304
+MD5sum: fdacc037e6cb34e26425a35f938e8b53
+SHA1: fc7286b103f81af8d9d148f2b9702f3387568fc3
+SHA256: 2de1d8c5b9121ccac26fe23f010f9a75f89f53223f94f0261abf502bdc2ff538
+Section: utils
+Priority: optional
+Description: Simple screen recorder capturing internal audio.
+
