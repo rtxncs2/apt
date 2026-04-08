@@ -1,0 +1,7 @@
+Origin: rtxncs2
+Label: rtxncs2 APT Repo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Personal APT repository

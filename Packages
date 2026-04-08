@@ -1,0 +1,20 @@
+Package: finance-tracker
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Jerry <jerry@example.com>
+Installed-Size: 302772
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./finance-tracker_1.0.0_amd64.deb
+Size: 93207556
+MD5sum: 785d294c4be6a9aa05994b489700b364
+SHA1: 5c9edccda37608be9fa0ae11060a2a235b322014
+SHA256: 3579d60a5bf999c17fac0ca8808ee86ddc7bee4bf8924014b7514e057e8ac85a
+Section: default
+Priority: optional
+Homepage: https://example.com
+Description:
+  Finance Tracker Desktop App
+License: unknown
+Vendor: Jerry <jerry@example.com>
+
