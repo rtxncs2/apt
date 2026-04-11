@@ -1,7 +1,17 @@
-Origin: rtxncs2
-Label: rtxncs2 APT Repo
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: Personal APT repository
+Date: Sat, 11 Apr 2026 10:18:04 +0000
+MD5Sum:
+ 6719dfbed25233a1b0950383a3e8f407             1744 Packages
+ c7638e65d7838313b8ec1b938bace2f8              800 Packages.gz
+ 17b1ff3c373f3c4cfa362ade8b646f3a               38 Release
+SHA1:
+ b5df26e96f82b4955f53484525f8fcf1f26f9413             1744 Packages
+ 3a3fc61b5446500c28b384f09f57ab0d95d1c4f7              800 Packages.gz
+ bcd50ea0fc72a1836e04c5e1a881143c59d0a909               38 Release
+SHA256:
+ 7d3deb8565106e61e7f07b4aa53cc17a11e6e9099f8d4b74e1234c232681011c             1744 Packages
+ fdbc68eea49f642392b717ab62e4d707d65a6993de9850f769df6883a0faba6b              800 Packages.gz
+ fb7a15c766d4b68875437757f895a6d1aadad2cc58afb1cce9ac7e59660efcfc               38 Release
+SHA512:
+ de8745c4cf3c7c1b228585971f1ac352a308c4b44a5c695dafc2ea7813682a1d2c2d09908f612934c2b6b77fcc1a17134ab8c34af5ae5e9f4341892404ae0351             1744 Packages
+ d82ff2ff64e92346ec17d05dc0446fe198a53f33ed0aada36b860e8372b645b9efc125fda463475a9e92e173d8e26841c21516a2618cb27a8de8b112a39faea9              800 Packages.gz
+ a001e89db7483b8f2f947e7c36bd94790c4db63198aa796770a9791a7dd565925d4670a73eacc89e29f0a5fe8f6d108d61323db7b897d0b043b9f23be175cd7c               38 Release
